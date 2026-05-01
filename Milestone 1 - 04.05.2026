@@ -1,1 +1,8 @@
-
+TeRun — Territory Run
+Die Straße ist unser Spielfeld.
+Du öffnest TeRun, setzt Punkte auf der echten Karte und forderst dein Team heraus. Ab jetzt zählt nicht wer am schnellsten tippt — sondern wer am schnellsten dort ist. Zu Fuß, mit dem Fahrrad, mit der Bahn — egal wie, Hauptsache bewegung.
+Spots werden als Marker auf der echten Karte gesetzt. Ein Spot gilt als erreicht sobald ein Teammitglied 15 Sekunden innerhalb von 25 Metern verweilt — dann gehört er dem ganzen Team. Wer zuerst alle Spots erreicht gewinnt das Duell. Wer die längste Strecke zurücklegt bekommt Bonuspunkte.
+Zwei Modi: In der Route läuft ihr Spots in fester Reihenfolge ab — Geschwindigkeit entscheidet. Im Freien Sammeln setzt jedes Team eigene Spots, die Reihenfolge ist egal, am Ziel zählt wer mehr hat. Spielt gegen Fremde in der Nähe oder fordert befreundete Teams direkt heraus.
+Jeder Sieg bringt Ranglistenpunkte. Die Ränge in TeRun sind an zurückgelegte Kilometer geknüpft — wer mehr läuft steigt weiter auf. Einzel- und Teamrangliste machen jeden Fortschritt sichtbar.
+Technisch läuft TeRun nativ auf Android. GPS verfolgt eure Position in Echtzeit, Google Maps zeigt die Karte mit allen Spots, Firebase speichert Spielstände und Nutzerprofile sicher in der Cloud. 
+TeRun wartet. 
