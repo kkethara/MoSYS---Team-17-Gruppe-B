@@ -261,3 +261,26 @@ Bezirke beanspruchen, Community-Routen teilen, Ghost Mode.
 
 Das könnt ihr so direkt ins Etherpad kopieren. Fehlt noch etwas oder wollt ihr etwas ändern?
 
+Samuel:
+Das Kernkonzept: Bewegung als Schlüssel
+Die App ist ein kompetitives Outdoor-Spiel, bei dem Nutzer physische Orte (Spots) in einer bestimmten Reihenfolge ablaufen müssen, um eine Route zu erobern.
+Die Spielmechanik (Gameplay)
+• Der Spot: Ein virtueller Punkt auf der Karte (Marker). Er gilt als "erreicht", wenn der User sich im Radius von ca. 25m befindet.
+• Die Route: Besteht aus mindestens drei Spots (z. B. Punkt A → B → C). Erst wenn der letzte Punkt erreicht wurde, zählt die Route als abgeschlossen.
+• Eroberung: Wer die Route am schnellsten absolviert oder als Erstes abschließt, wird "Besitzer" bzw. Rekordhalter der Route. Sein Name erscheint für andere sichtbar auf der Karte.
+Motivation & Wettbewerb
+• Leaderboard: Rangliste basierend auf der Anzahl eroberter Routen oder der schnellsten Zeit.
+• Benachrichtigungen: "Dein Rekord wurde gebrochen!" oder "Neue Route in deiner Nähe verfügbar!"
+• Profil: Anzeige der insgesamt zurückgelegten Kilometer und gesammelten Punkte.
+🛠 Technische Kern-Features (Prüfungsrelevant)
+Anstatt komplexer Team-Verwaltung oder Flächenberechnungen konzentriert ihr euch auf drei solide Säulen, die ihr in der Prüfung gut erklären könnt:
+Was wir weglassen (Redundanz-Check)
+Um euch nicht zu verzetteln und die Prüfung nicht zu gefährden, fliegen diese Punkte raus:
+• Flächen-Berechnung (Sami): Zu viel Mathe im Hintergrund (Polygone).
+• Komplexe Team-Hierarchien (Kadan): "Chef-Rollen" und Team-Wechsel brauchen eine riesige Datenbank-Logik.
+• Echtzeit-Gegner-Tracking: Verbraucht zu viel Datenvolumen und Akku; technisch sehr fehleranfällig für Anfänger.
+• Kommentar-Pflicht: Erzeugt nur unnötigen Moderationsaufwand und Datenbank-Traffic.
+💡 Warum diese Zusammenfassung gewinnt:
+Ihr kombiniert Samis Reiz der Gebiets-Eroberung mit Kadans Spot-Idee und Krishnas technischer Absicherung gegen "Standort-Spamming".
+Das Ergebnis: Ein sauberer "Route-Runner", den ihr in Kotlin mit einer einfachen Liste von Koordinaten umsetzen könnt.
+
