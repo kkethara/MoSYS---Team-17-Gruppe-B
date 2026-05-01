@@ -215,3 +215,49 @@ Ich kann dir jetzt:
 
 geben – dann seid ihr komplett ready für Meilenstein 1 & 2.
 
+Kadan CLaude: 
+**App-Name:** noch offen
+**Sprache:** Deutsch
+**Thema:** Mobility Game — Spieler bewegen sich physisch in der echten Welt
+
+**Kernidee**
+Ein kompetitives Multiplayer-Game bei dem Teams gegeneinander antreten indem sie sich physisch zu Spots auf einer Karte bewegen. Bewegung egal ob zu Fuß, Fahrrad, Auto oder Zug.
+
+**Spot & Ziel**
+Ein Spot ist ein Punkt auf der Karte, symbolisiert durch eine Nadel. Der Endpunkt heißt Ziel und wird mit einer Flagge symbolisiert. Spots können überall gesetzt werden. Ein Spot gilt als erreicht wenn ein Teammitglied 15 Sekunden im 25m Umkreis bleibt — dann gilt er für das gesamte Team. Nur das erste Team das einen Spot erreicht bekommt ihn voll gewertet, weitere Teams können ihn noch erreichen bekommen aber weniger Punkte.
+
+**Punktesystem pro Spot**
+Erstes Team: 3 Punkte. Gleichzeitige Ankunft: beide 2 Punkte. Spot erreicht aber nicht als erstes: 1 Punkt. Spot nicht erreicht oder aufgegeben: 0 Punkte. Zusätzlich 2 Punkte für das Team das die längere Strecke zurückgelegt hat.
+
+**Modus 1 — Route**
+Der Herausforderer setzt Spots und lädt Gegner ein. Spots müssen in vorgegebener Reihenfolge erreicht werden. Wer zuerst alle Spots erreicht gewinnt. Pro Route gibt es ein Leaderboard mit den schnellsten Zeiten.
+
+**Modus 2 — Freies Sammeln**
+Beide Teams setzen je max. 5 Spots. Reihenfolge ist egal. Es gibt ein definiertes Ziel. Wer bis zum Ziel die meisten Spots gesammelt hat gewinnt.
+
+**Teams**
+Feste Teamgröße max. 5 Spieler. Mindestens 2 Teams pro Duell, max. 5 Teams. Teamgründer ist Chef. Verlässt der Chef das Team wird der ranghöchste Spieler neuer Chef. Team löschen löscht alle Teamerfolge.
+
+**Rangliste**
+Gewinner eines Duells: 3 Ranglistenpunkte. Verlierer: 1 Punkt. Es gibt eine Einzelrangliste und eine Teamrangliste. Ränge sind mobility-bezogen und an zurückgelegte Kilometer geknüpft.
+
+**Während des Duells**
+Karte zeigt ob Spots bereits von einem Team erreicht wurden — kein Echtzeit-Tracking der Gegner. Notifications bei Sieg, Niederlage, Aufgabe und allen Aktionen die einen betreffen. App läuft im Hintergrund weiter, bei vollständigem Schließen endet die Session. Zeitlimit kann vorher festgelegt werden, jeder kann jederzeit aufgeben.
+
+**Spieler finden**
+Freunde über Spielernamen suchen und hinzufügen. Freunde entfernen möglich. Öffentliche Lobby in der Nähe beitreten. Duelle auch direkt unter Freunden starten.
+
+**Account**
+Pflicht — kein Gastmodus. Spielername und Teamname werden einmalig festgelegt.
+
+**Tutorial**
+Kleines Einführungs-Tutorial für neue Spieler.
+
+**Offline**
+Nicht unterstützt.
+
+**Für später — nicht im MVP**
+Bezirke beanspruchen, Community-Routen teilen, Ghost Mode.
+
+Das könnt ihr so direkt ins Etherpad kopieren. Fehlt noch etwas oder wollt ihr etwas ändern?
+
