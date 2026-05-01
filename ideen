@@ -7,3 +7,33 @@ Motivation
  •    Dein Name steht auf der Karte
  •    Rangliste: wer hat die meisten Bezirke
  •    Notification: “Jemand hat deinen Bezirk geklaut!” → sofortiger Reiz zurückzulaufen
+Kadan: App-Name: noch offen
+Sprache: Deutsch
+Thema: Mobility — Spieler bewegen sich physisch in der echten Welt
+
+Kernkonzept
+Ein kompetitives Multiplayer-Game bei dem Spieler sich physisch zu Spots auf einer Karte bewegen müssen. Bewegung egal ob zu Fuß, Fahrrad, Auto oder Zug.
+Spot & Ziel
+Ein Spot wird mit einer Nadel auf der Karte markiert. Der Endpunkt heißt Ziel und wird mit einer Flagge symbolisiert. Spots können überall gesetzt werden. Ein Spot gilt als erreicht wenn man 15 Sekunden im 25m Umkreis bleibt. Erreicht ein Teammitglied den Spot gilt er für das gesamte Team. Nur das erste Team das einen Spot erreicht bekommt ihn — weitere Teams können ihn noch erreichen bekommen aber weniger Punkte.
+Punktesystem pro Duell
+Erstes Team am Spot: 3 Punkte. Gleichzeitige Ankunft: beide 2 Punkte. Spot erreicht aber nicht als erstes: 1 Punkt. Spot nicht erreicht oder aufgegeben: 0 Punkte. Zusätzlich 2 Punkte für das Team das die längere Strecke zurückgelegt hat.
+Rangliste
+Gewinner eines Duells bekommt 3 Ranglistenpunkte, Verlierer 1. Es gibt eine Einzelrangliste und eine Teamrangliste. Ränge sind mobility-bezogen und an zurückgelegte Kilometer geknüpft.
+Modi
+Modus 1 — Route: Herausforderer setzt Spots und lädt Gegner ein. Spots müssen in vorgegebener Reihenfolge erreicht werden. Wer zuerst alle Spots erreicht gewinnt.
+Modus 2 — Freies Sammeln: Beide Teams setzen je max. 5 Spots. Reihenfolge egal. Es gibt ein definiertes Ziel. Wer bis zum Ziel die meisten Spots gesammelt hat gewinnt.
+Modus 3 — Community: Abgeschlossene Duelle können mit der Community geteilt werden. Die Route bekommt einen Namen. Andere Spieler können sie spielen, liken und kommentieren. Ein Kommentar ist Pflicht beim Liken, Mindestlänge ein Zeichen. Übernommene Community-Routen die verändert werden werden zu persönlichen Routen.
+Teams
+Feste Teamgröße max. 5 Spieler. Teamname und Spielername werden einmalig festgelegt. Teamgründer ist Chef. Verlässt der Chef das Team wird der ranghöchste Spieler neuer Chef. Dieser kann die Chef-Rolle weitergeben. Team löschen löscht alle Teamerfolge. Man kann das Team wechseln oder ein eigenes gründen.
+Duell-Setup
+Mindestens 2 Teams mit je mindestens 1 Spieler. Maximum 5 Teams mit je max. 5 Spielern. Zeitlimit kann vorher festgelegt werden. Jeder kann jederzeit aufgeben — wer aufgibt verliert.
+Während des Duells
+Karte zeigt ob Spots bereits von einem Team erreicht wurden. Kein Echtzeit-Tracking der Gegner. Notifications bei Sieg, Niederlage, Aufgabe und allen Aktionen die einen betreffen. App läuft im Hintergrund weiter. Bei vollständigem Schließen endet die Session.
+Spieler finden
+Freunde direkt über Spielernamen suchen und hinzufügen. Freunde entfernen möglich, blockieren nicht. Öffentliche Lobby in der Nähe beitreten. Duelle auch unter Freunden starten.
+Account
+Pflicht — kein Gastmodus. Spielername und Teamname werden festgelegt.
+Tutorial
+Kleines Einführungs-Tutorial für neue Spieler.
+Offline
+Nicht unterstützt.
